@@ -45,4 +45,4 @@ It allows users to manage customers, food items, and orders.
 
 Full documentation of the project:
 
-[View Report](food_delivery_dbms_report.pdf)
+[View Report](Food_delivery_dbms_report.pdf)
