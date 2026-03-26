@@ -8,3 +8,18 @@ Technologies:
 - Tkinter
 - MongoDB
 - PyMongo
+
+
+## How to Run the Project
+
+1. Install Python (version 3.x)
+
+2. Install MongoDB and make sure the MongoDB server is running.
+
+3. Install the required Python library:
+   pip install pymongo
+
+4. Download or clone this repository.
+
+5. Run the program:
+   python main.py
